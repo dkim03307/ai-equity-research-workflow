@@ -1,27 +1,26 @@
 # AI Equity Research Workflow
 
-A prompt-based workflow that uses AI to extract key financial metrics 
-from company earnings documents (10-K, 10-Q, earnings releases) 
-quickly and accurately.
+A prompt-based workflow that uses AI to break down company earnings 
+reports into clear, digestible insights.
 
 ## Why I Built This
-Default AI chatbots often hallucinate numbers or confuse concepts 
-like ARR with actual GAAP revenue when analyzing financial documents.
-This prompt is designed to prevent that by enforcing:
-- Exact page/section citations for every metric
-- Outputting "N/A" instead of guessing when data is absent
-- Clear distinction between ARR and actual GAAP revenue
+Reading through dense earnings documents takes time, and it's easy 
+to miss the real story behind headline numbers. This prompt asks 
+AI to act as a research mentor — pulling out the key revenue drivers, 
+explaining technical terms simply, and flagging risks to watch, 
+all in clear bullet points.
 
 ## How to Use
 1. Copy the contents of `prompt.txt`
 2. Paste it into an AI chatbot (Claude, ChatGPT, etc.)
-3. Attach the earnings document (PDF) you want to analyze
-4. The AI returns key metrics in a table, each mapped to its source
+3. Attach the earnings document you want to analyze
+4. The AI returns a structured breakdown: key drivers, plain-language 
+   explanations, and risks to watch
 
 ## Example
-Applying this prompt to SK Hynix's FY2026 Q1 earnings report 
-clearly separated GAAP revenue from ASP (average selling price) 
-contribution — revealing the real driver behind the headline numbers.
+Applied to SK Hynix's FY2026 Q1 earnings report, this prompt surfaced 
+that revenue growth was driven almost entirely by pricing (ASP), 
+not shipment volume — a distinction the headline numbers alone didn't show.
 
 ## About Me
 Dongwoo (David) Kim — Econ & Finance, Boston College
