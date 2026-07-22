@@ -21,7 +21,7 @@ all in clear bullet points.
 
 ## Prompts
 
-### v1 — Basic Mentor Framework (`prompt.txt`)
+### v1 — Basic Mentor Framework (`prompt-v1-basic-mentor.txt`)
 A simple prompt that asks AI to explain earnings like a research mentor: 
 key drivers, plain-language explanations, and risks to watch.
 
