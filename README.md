@@ -38,9 +38,14 @@ technology mix).
 
 ## Example
 
-Applied to SK Hynix's FY2026 Q1 earnings report, this prompt surfaced 
-that revenue growth was driven almost entirely by pricing (ASP), 
-not shipment volume — a distinction the headline numbers alone didn't show.
+**v1 (SK Hynix, FY2026 Q1):** Surfaced that revenue growth was driven 
+almost entirely by pricing (ASP), not shipment volume — a distinction 
+the headline numbers alone didn't show.
+
+**v3 (TSMC, Q2 2026):** Forced to argue against the bull thesis, AI found 
+that margin guidance was pointing down despite "strong demand" language, 
+and that a 2.3-point gap between local-currency and USD growth was 
+masking the true growth rate.
 
 ## About Me
 
