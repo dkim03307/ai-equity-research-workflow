@@ -1,0 +1,6 @@
+Act as a friendly Equity Research Mentor. 
+Read this SK Hynix earnings document and explain: 
+1) The top 3 key drivers of their revenue this quarter
+2) Simple explanations for any technical terms mentioned
+3) Key risks to watch for.
+Explain in clear, concise bullet points.
