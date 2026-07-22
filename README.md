@@ -36,6 +36,12 @@ source document — surfaces risks a purely descriptive summary
 would miss (e.g. margin guidance trends, currency effects, 
 technology mix).
 
+### v4 — Head-to-Head Comparison (`prompt-v4-head-to-head.txt`)
+Forces AI to compare two competing companies on identical metrics 
+using only their own filings — surfaces which company's numbers 
+actually support its narrative, independent of brand reputation 
+or market cap.
+
 ## Example
 
 **v1 (SK Hynix, FY2026 Q1):** Surfaced that revenue growth was driven 
@@ -52,6 +58,13 @@ Every figure mapped to a page reference, zero extrapolation.
 that margin guidance was pointing down despite "strong demand" language, 
 and that a 2.3-point gap between local-currency and USD growth was 
 masking the true growth rate.
+
+**v4 (NVIDIA vs AMD, Q1 2026):** Compared Data Center growth (92% 
+vs 57% YoY) and gross margin (74.9% vs 53%) side by side — found 
+NVIDIA's growth story stronger on every requested metric, while 
+AI also flagged a genuine caveat: NVIDIA's own guidance excludes 
+future China Data Center revenue, a risk AMD's filing doesn't 
+have to disclose.
 
 ## About Me
 
