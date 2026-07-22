@@ -30,6 +30,12 @@ A more rigorous version that enforces citation for every metric,
 distinguishes ARR from GAAP revenue, and outputs "N/A" instead of 
 guessing when data is missing — reducing hallucination risk.
 
+### v3 — Devil's Advocate (`prompt-v3-devils-advocate.txt`)
+Forces AI to argue against a stated bull thesis using only the 
+source document — surfaces risks a purely descriptive summary 
+would miss (e.g. margin guidance trends, currency effects, 
+technology mix).
+
 ## Example
 
 Applied to SK Hynix's FY2026 Q1 earnings report, this prompt surfaced 
