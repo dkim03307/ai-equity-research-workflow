@@ -42,6 +42,12 @@ technology mix).
 almost entirely by pricing (ASP), not shipment volume — a distinction 
 the headline numbers alone didn't show.
 
+**v2 (Tesla, Q1 2026):** Applied the audit framework to Tesla's Q1 2026 
+filing — AI extracted GAAP revenue ($22,387M) with exact page citation, 
+correctly flagged "N/A" for ARR since Tesla doesn't disclose that metric 
+(instead of guessing), and cited Gross Margin (21.1%) to its exact source. 
+Every figure mapped to a page reference, zero extrapolation.
+
 **v3 (TSMC, Q2 2026):** Forced to argue against the bull thesis, AI found 
 that margin guidance was pointing down despite "strong demand" language, 
 and that a 2.3-point gap between local-currency and USD growth was 
